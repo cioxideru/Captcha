@@ -3,6 +3,7 @@
     "description": "Captcha Package for Laravel 4",
     "keywords": ["L4", "Laravel 4", "Laravel", "Captcha", "security", "captcha image"],
     "license": "MIT",
+	"homepage": "https://github.com/Latrell/Captcha",
     "authors": [
         {
             "name": "Latrell Chan",

@@ -96,7 +96,7 @@ class Captcha
     public static function check($value)
     {
         $captcha_hash = (string) Session::get('captcha_hash');
-        Session::forget('captcha_hash');
+        //Session::forget('captcha_hash');
         return $captcha_hash && Hash::check(Str::lower($value), $captcha_hash);
     }
 
