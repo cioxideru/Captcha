@@ -1,5 +1,5 @@
 {
-    "name": "cioxideru/captcha",
+    "name": "latrell/captcha",
     "description": "Captcha Package for Laravel 5",
     "keywords": ["L5", "Laravel 5", "Laravel", "Captcha", "security", "captcha image"],
     "license": "MIT",
